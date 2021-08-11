@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<api>
+    <user>
+        <userName>Denis</userName>
+        <apiKey>SFO7Or2wT16cArFe8ihmra3pOGmwE8GT8nmds9sw</apiKey>
+    </user>
+    <messages>
+        <greetingMessage>Hello</greetingMessage>
+        <acceptPersonalData>I accept</acceptPersonalData>
+        <symptoms>I have headache</symptoms>
+        <age>1996</age>
+    </messages>
+</api>
